@@ -1,6 +1,6 @@
 ### How run_analysis.R works ###
 
- 1. Get the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and I have renamed it as UCI_HAR_Dataset.
+ 1. Get the data from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and I have renamed it as UCI_HAR_Dataset.
  2. Open R and type in the terminal the following command, source("run_analysis.R")
  3. After successful completion of the script, you will get two output files in the working directory
   1. File name             dimension  names
